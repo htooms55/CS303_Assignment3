@@ -27,3 +27,5 @@ To test different scenarios, open Main.java and try these common changes:
 -Add Duplicate Values: Add list.add(10); twice in your search test to verify the code actually finds the last one, not the first.
 
 -Change Sort Input: Add unsorted numbers like num.add(5); num.add(1); num.add(9); to the LinkedList before calling insertionSort to verify the sorting order changes.
+
+<img width="819" height="284" alt="Screenshot 2026-04-21 at 12 10 32 AM" src="https://github.com/user-attachments/assets/9bda950d-23b0-40e8-aecf-3736dc3475ef" />
